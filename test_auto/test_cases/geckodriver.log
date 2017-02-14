@@ -1,0 +1,11 @@
+1486837127431	geckodriver	INFO	Listening on 127.0.0.1:1993
+1486837129477	mozprofile::profile	INFO	Using profile path C:\Users\Geenath\AppData\Local\Temp\rust_mozprofile.3pnZ85ufBRjh
+1486837129483	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1486837129490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1999
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1486837131039	Marionette	INFO	Listening on port 1999
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1486837134111	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5316] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+
